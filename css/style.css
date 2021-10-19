@@ -668,15 +668,15 @@ background-color: #212121;
 /*-- service-- */
 
 .color-img-one {
-    background: url(../images/s5.jpg)no-repeat center;
+    background: url(../images/iiaward-thumb.jpg)no-repeat center;
 }
 
 .color-img-two {
-    background: url(../images/s4.jpg)no-repeat center;
+    background: url(../images/ubaward.jpg)no-repeat center;
 }
 
 .color-img-three {
-    background: url(../images/s3.jpg)no-repeat center;
+    background: url(../images/caaward.jpg)no-repeat center;
 }
 
 .color-img-four {
@@ -796,6 +796,11 @@ background-color: #212121;
     -ms-background-size: cover;
 }
 
+.text-grid-head {
+    background: #fff;
+    padding: 15px 15px;
+}
+
 .text-grid-gried {
     background: #fbfbfb;
     padding: 16px 15px;
@@ -840,7 +845,8 @@ background-color: #212121;
 .blog-info a ul {
     margin: 0;
     background: #00b381;
-    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     text-align: center;
     color: #fff;
     font-size: 13px;
@@ -854,8 +860,7 @@ background-color: #212121;
     background: url(../images/bb2.jpg)no-repeat 0px 0px;
 }
 
-.busness-tip-two,
-.busness-tip-one {
+.blogimage {
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
